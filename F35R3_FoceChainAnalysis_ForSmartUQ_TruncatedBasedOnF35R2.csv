@@ -1,4 +1,4 @@
-Before erosion ID,Initial X,Initial Y,Initial Z,Initial connectivity,Before erosion ID,Erosion state,Encoded erosion state,Z location Half,Z location 0.21,Z location 0.22,Z location 0.23,Z location 0.24,Z location 0.25,3 connectivity,1 connectivity,2 connectivity,4 connectivity,5 connectivity
+Before erosion ID,Initial X,Initial Y,Initial Z,Initial connectivity,Before erosion ID,Erosion state,Encoded erosion state,Z location Half,Z location 0.21,Z location 0.22,Z location 0.23,Z location 0.24,Z location 0.25,3 connectivity,1 Connectivity,2 connectivity,4 connectivity,5 connectivity
 1,1.02E-01,2.05E-01,2.48E-01,0,1,Not eroded,0,1,1,1,1,1,0,1,1,1,1,1
 2,1.43E-01,6.34E-02,2.38E-01,6,2,Not eroded,0,1,1,1,1,0,0,0,0,0,0,0
 3,1.76E-01,2.40E-01,2.55E-01,4,3,Not eroded,0,1,1,1,1,1,1,0,0,0,1,1
@@ -3769,3 +3769,4 @@ Before erosion ID,Initial X,Initial Y,Initial Z,Initial connectivity,Before eros
 10259,2.08E-01,2.76E-01,2.76E-01,4,10259,Not eroded,0,1,1,1,1,1,1,0,0,0,1,1
 10260,2.91E-01,7.37E-02,3.08E-01,0,10260,ERODED,1,1,1,1,1,1,1,1,1,1,1,1
 10265,5.63E-02,3.12E-01,2.14E-01,0,10265,Not eroded,0,1,1,0,0,0,0,1,1,1,1,1
+
